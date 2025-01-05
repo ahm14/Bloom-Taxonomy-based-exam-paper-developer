@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+python-docx
+PyPDF2
+sentence_transformers
+pinecone
+fitz
+pytesseract
+pdfplumber
+python-dotenv
